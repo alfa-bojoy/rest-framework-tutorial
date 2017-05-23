@@ -1,0 +1,10 @@
+blessings==1.6
+bpython==0.16
+curtsies==0.2.11
+Django==1.9
+djangorestframework==3.3.3
+greenlet==0.4.12
+Pygments==2.2.0
+requests==2.14.2
+six==1.10.0
+wcwidth==0.1.7
