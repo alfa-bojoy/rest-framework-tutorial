@@ -18,3 +18,8 @@
 
 ##2b:
 为URL添加可选的数据格式后缀,可以根据url后缀返回相应的格式(json,api)
+
+#3
+
+##3a:
+装饰器:使用REST framework提供的基于类视图的APIView
