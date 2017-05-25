@@ -23,3 +23,9 @@
 
 ##3a:
 装饰器:使用REST framework提供的基于类视图的APIView
+
+##3b:
+使用Mixins
+
+##3c
+使用通用类视图
